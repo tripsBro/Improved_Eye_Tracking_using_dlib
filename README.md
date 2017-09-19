@@ -1,0 +1,2 @@
+# Improved_Eye_Tracking_using_dlib
+This is my newest project and success (in that sense :)). The project detects and track the pupil while predicting it's shape. The videos included are of very low contrast which shows the sole purpose of my project...that is even if there is a very low contrast, so low that one can not even separate the foreground and background...it can detect the pupil! The full tutorial for this one is coming right up in a week.
